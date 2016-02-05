@@ -13,6 +13,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     # go into directory and copy data we're interested in to that directory
     cd build
     mv ../presentation.html ./index.html
+    mv ../agileware-logo-960.png ./agileware-logo-960.png
     # add, commit and push files
     git add -f .
     git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"

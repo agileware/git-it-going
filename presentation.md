@@ -2,6 +2,10 @@
 % Vaibhav Sagar
 % Software Engineer at Agileware
 
+#
+
+<center style="padding-top: 10em;">![](agileware-logo-960.png)</center>
+
 # Intro
 
 ## About this presentation
@@ -121,3 +125,5 @@ Remote changes
 - [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 
 # Questions?
+
+<center style="padding-top: 10em;">![](agileware-logo-960.png)</center>
