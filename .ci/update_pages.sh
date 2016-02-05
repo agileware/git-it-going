@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 BRANCH=gh-pages
-TARGET_REPO=vaibhavsagar/git-it-going.git
+TARGET_REPO=agileware/git-it-going.git
 
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     echo -e "Starting to deploy to Github Pages\n"
