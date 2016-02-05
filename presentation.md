@@ -1,5 +1,6 @@
 % Git It Going
 % Vaibhav Sagar
+% Software Engineer at Agileware
 
 # Intro
 
