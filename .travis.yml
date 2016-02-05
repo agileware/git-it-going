@@ -4,6 +4,5 @@ install: bash .ci/prepare.sh
 script: make
 notifications:
   email:
-    on_success: always
     on_failure: always
 after_success: bash .ci/update_pages.sh
